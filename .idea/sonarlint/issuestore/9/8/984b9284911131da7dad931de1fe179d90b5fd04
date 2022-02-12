@@ -1,0 +1,14 @@
+
+R
+java:S1481"0Remove this unused "beansOfType" local variable.(¦£ÀÅÿÿÿÿÿ8Øÿ¤‘Ş/
+a
+java:S1854"?Remove this useless assignment to local variable "beansOfType".(¦£ÀÅÿÿÿÿÿ8Øÿ¤‘Ş/
+g
+java:S1854 "ERemove this useless assignment to local variable "systemEnvironment".(Œÿ³óşÿÿÿÿ8ï¨­‘Ş/
+X
+java:S1481 "6Remove this unused "systemEnvironment" local variable.(Œÿ³óşÿÿÿÿ8ï¨­‘Ş/
+d
+java:S1128"BRemove this unused import 'com.yablokovs.service.FacadeInterFace'.(©‘üúÿÿÿÿ8áææ‘Ş/
+X	java:S125!"<This block of commented-out lines of code should be removed.(óæøú8ú·‘Ş/
+Z
+java:S1128"=Remove this unused import 'com.yablokovs.service.FacadeImpl'.(¼÷ı§8Õï×‘Ş/
